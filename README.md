@@ -1,4 +1,4 @@
-## Olá, eu sou o Fred Andrade, seja bem-vindo!
+## Olá, me chamo Fred Andrade, seja bem-vindo!
 
 - 🔭 Atualmente faço Engenharia Mecânica
 - 📚 Estudando Flutter, Firebase e Swift
